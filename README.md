@@ -5,6 +5,8 @@ Asset gem for jQuery UI.
 ## TODO
 
 Handle image assets.
+Helper for CDN usage.
+Fallbacks for no-network.
 
 ## Installation
 
