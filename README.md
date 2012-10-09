@@ -2,6 +2,10 @@
 
 Asset gem for jQuery UI.
 
+## TODO
+
+Handle image assets.
+
 ## Installation
 
 Add this line to your application's Gemfile:
